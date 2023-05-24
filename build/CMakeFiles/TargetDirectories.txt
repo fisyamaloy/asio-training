@@ -1,0 +1,14 @@
+/home/danil/Programming/asio-training/build/CMakeFiles/edit_cache.dir
+/home/danil/Programming/asio-training/build/CMakeFiles/rebuild_cache.dir
+/home/danil/Programming/asio-training/build/Server/CMakeFiles/Server.dir
+/home/danil/Programming/asio-training/build/Server/CMakeFiles/edit_cache.dir
+/home/danil/Programming/asio-training/build/Server/CMakeFiles/rebuild_cache.dir
+/home/danil/Programming/asio-training/build/Client/CMakeFiles/Client.dir
+/home/danil/Programming/asio-training/build/Client/CMakeFiles/edit_cache.dir
+/home/danil/Programming/asio-training/build/Client/CMakeFiles/rebuild_cache.dir
+/home/danil/Programming/asio-training/build/Network/CMakeFiles/Network.dir
+/home/danil/Programming/asio-training/build/Network/CMakeFiles/edit_cache.dir
+/home/danil/Programming/asio-training/build/Network/CMakeFiles/rebuild_cache.dir
+/home/danil/Programming/asio-training/build/Test/CMakeFiles/Test.dir
+/home/danil/Programming/asio-training/build/Test/CMakeFiles/edit_cache.dir
+/home/danil/Programming/asio-training/build/Test/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+[requires]
+asio/1.28.0
+gtest/1.10.0
+
+[generators]
+cmake

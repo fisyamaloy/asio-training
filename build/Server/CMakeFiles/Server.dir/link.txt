@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Server.dir/MainServer.cpp.o -o ../bin/Server  ../lib/libNetwork.a -lpthread 

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/danil/Programming/asio-training/build/Server",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -I/home/danil/Programming/asio-training/Network/Include -isystem /home/danil/.conan/data/asio/1.28.0/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include -g -Wall -Wextra -pedantic -Werror -std=gnu++20 -o CMakeFiles/Server.dir/MainServer.cpp.o -c /home/danil/Programming/asio-training/Server/MainServer.cpp",
+  "file": "/home/danil/Programming/asio-training/Server/MainServer.cpp"
+},
+{
+  "directory": "/home/danil/Programming/asio-training/build/Client",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -isystem /home/danil/.conan/data/asio/1.28.0/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include -g -Wall -Wextra -pedantic -Werror -std=gnu++20 -o CMakeFiles/Client.dir/MainClient.cpp.o -c /home/danil/Programming/asio-training/Client/MainClient.cpp",
+  "file": "/home/danil/Programming/asio-training/Client/MainClient.cpp"
+},
+{
+  "directory": "/home/danil/Programming/asio-training/build/Test",
+  "command": "/usr/bin/c++  -I/home/danil/Programming/asio-training/Network/Include -isystem /home/danil/.conan/data/gtest/1.10.0/_/_/package/63868df56b76903d4ad40ecbd5b2e8238cee50c9/include -g -Wall -Wextra -pedantic -Werror -std=gnu++20 -o CMakeFiles/Test.dir/MainTest.cpp.o -c /home/danil/Programming/asio-training/Test/MainTest.cpp",
+  "file": "/home/danil/Programming/asio-training/Test/MainTest.cpp"
+}
+]
